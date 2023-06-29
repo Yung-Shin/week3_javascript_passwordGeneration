@@ -47,3 +47,4 @@ SOFTWARE.
 https://github.com/Yung-Shin/week3_javascript_passwordGeneration
 
 ## Deployed Live URL: 
+https://yung-shin.github.io/week3_javascript_passwordGeneration/
