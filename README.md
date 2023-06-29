@@ -37,7 +37,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Sscreenshot
+<img width="1278" alt="Week3 1" src="https://github.com/Yung-Shin/week3_javascript_passwordGeneration/assets/123918265/819f9678-5900-4fe6-9052-a11728d86c45">
 
+<img width="1259" alt="week3 2" src="https://github.com/Yung-Shin/week3_javascript_passwordGeneration/assets/123918265/f29fb0aa-aeaa-4653-85a6-a10811015648">
+
+<img width="1255" alt="week3 3" src="https://github.com/Yung-Shin/week3_javascript_passwordGeneration/assets/123918265/284f7a39-2adf-4594-abd4-e9ac0d6dcaa3">
 
 ## Github URL:
 https://github.com/Yung-Shin/week3_javascript_passwordGeneration
